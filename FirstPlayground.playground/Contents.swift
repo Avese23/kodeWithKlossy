@@ -94,3 +94,64 @@ if gitHub == "Rocks" {
 } else {
     print ("try again")
 }
+var favoriteBNHACharacter = "Todoroki"
+if favoriteBNHACharacter == "Todoroki" {
+    print ("OMG me too")
+}
+else if favoriteBNHACharacter == "Deku" {
+    print ("Ok, understandable")
+}
+else if favoriteBNHACharacter == "Kachaan" {
+    print ("Explosion boy? Ok...")
+}else{
+    print ("Ok...")}
+
+//func walkDog () {
+print ("call dog")
+    print ("open get out and close door")
+   // print ("walk around")}
+//walkDog ()
+func makeCereal () {
+    print ("open cereal jar")
+    print ("get out a medium sized bowl")
+    print ("carefully pour cereal into bowl until it nears top")
+    print ("close and put away cereal jar")
+    print ("take milk out of fridge")
+    print ("carefully pour milk until cereal starts to visibly rise")
+    print ("put milk back in fridge")
+    print ("clean up any mess")
+    print ("get out a medium sized spoon")
+    print ("take cereal bowl in both hands and walk to table")
+    print ("place down bowl and find a seat")
+    print ("eat your yummy breakfast")
+}
+makeCereal ()
+print ("you monster")
+//func walkDog(numberOfDogs : Int) {
+//    print ("There are \(numberOfDogs) dogs in the house")
+//}
+//walkDog (numberOfDogs : 4)
+var dracoMalfoy = "angry"
+if dracoMalfoy == "angry" {
+    print ("POTTAH")
+}
+else {
+    print ("My father will hear about this")
+}
+func hello(human : String) {
+    print ("Hello, \(human)")}
+hello (human : "Trinity")
+func walkDog (numberOfDogs : Int) -> Int {
+    let lengthOfWalk = numberOfDogs * 15
+    return lengthOfWalk
+}
+let minutesToWalk = walkDog(numberOfDogs: 3)
+print ("Please walk the dogs. I will expect to see you complete the task in \(minutesToWalk) minutes!")
+var Hamilton = "raise his pistol to the sky"
+if Hamilton == "raise his pistol to the sky" {
+    print ("WAIT!")
+}
+var friendsOfKarlie = ["Michelle Obama", "Serena Williams", "Taylor Swift", "Jimmy Falon"]
+friendsOfKarlie[2]
+
+
