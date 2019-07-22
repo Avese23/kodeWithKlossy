@@ -81,3 +81,16 @@ if pet == "Doggie" {
 else {
     print ("am I dreaming?")
 }
+pet = "Doggie"
+if pet == "Doggie" {
+    print ("Cuuute dog")
+}
+else {
+    print ("am I dreaming?")
+}
+var gitHub = "Rocks"
+if gitHub == "Rocks" {
+    print ("you did it!!")
+} else {
+    print ("try again")
+}
